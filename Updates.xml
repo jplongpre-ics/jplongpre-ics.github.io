@@ -12,14 +12,14 @@
   <ForcedInstallation>true</ForcedInstallation>
   <Default>true</Default>
   <Essential>true</Essential>
-  <UpdateFile CompressedSize="24184095" UncompressedSize="165441188" OS="Any"/>
+  <UpdateFile CompressedSize="24183152" OS="Any" UncompressedSize="165441188"/>
   <DownloadableArchives>bin.7z</DownloadableArchives>
   <UserInterfaces>page.ui</UserInterfaces>
   <Licenses>
    <License file="licence.txt" name="ICS License"/>
   </Licenses>
-  <SHA1>4ada4b614c09121154dcb2c937b1395e9330d20b</SHA1>
+  <SHA1>8f81eba15532456b897601cc910d439967deb3d9</SHA1>
  </PackageUpdate>
- <SHA1>4ada4b614c09121154dcb2c937b1395e9330d20b</SHA1>
- <MetadataName>2021-10-19-1626_meta.7z</MetadataName>
+ <SHA1>8f81eba15532456b897601cc910d439967deb3d9</SHA1>
+ <MetadataName>2021-10-19-1702_meta.7z</MetadataName>
 </Updates>
