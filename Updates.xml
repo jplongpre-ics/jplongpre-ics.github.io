@@ -1,0 +1,25 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>AwesomeWorld</Name>
+  <DisplayName>AwesomeWorld</DisplayName>
+  <Description/>
+  <Version>1.0</Version>
+  <ReleaseDate>2021-10-19</ReleaseDate>
+  <Script>installscript.qs</Script>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Default>true</Default>
+  <Essential>true</Essential>
+  <UpdateFile CompressedSize="24184095" UncompressedSize="165441188" OS="Any"/>
+  <DownloadableArchives>bin.7z</DownloadableArchives>
+  <UserInterfaces>page.ui</UserInterfaces>
+  <Licenses>
+   <License file="licence.txt" name="ICS License"/>
+  </Licenses>
+  <SHA1>4ada4b614c09121154dcb2c937b1395e9330d20b</SHA1>
+ </PackageUpdate>
+ <SHA1>4ada4b614c09121154dcb2c937b1395e9330d20b</SHA1>
+ <MetadataName>2021-10-19-1626_meta.7z</MetadataName>
+</Updates>
